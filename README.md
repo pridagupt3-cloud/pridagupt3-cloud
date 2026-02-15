@@ -94,9 +94,21 @@ https://github.com/pridagupt3-cloud/project_expense_tracker
 
 ---
 
-## 📊 Power BI Sales Dashboard
+## 📊 AtliQ Business Insights 360 Dashboard | Power BI
 
-Business performance dashboard
+Enterprise-level Business Intelligence dashboard delivering insights across Finance, Sales, Supply Chain, Marketing, and Executive functions.
+
+✔ Built interactive Power BI dashboard using DAX and data modeling  
+✔ Enabled KPI tracking for Revenue, Profit, and Forecast Accuracy  
+✔ Implemented dynamic visuals, bookmarks, and executive reporting  
+✔ Delivered data-driven insights for strategic decision making  
+
+🔗 GitHub Repository  
+https://github.com/pridagupt3-cloud/AtliQ-Business-Insights-360
+
+🔗 Live Dashboard  
+https://app.powerbi.com/groups/me/reports/de9d0173-167c-4691-9864-bcd0aafb79d9
+
 
 ---
 
