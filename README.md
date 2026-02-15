@@ -1,63 +1,92 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=180&section=header&text=Priyam%20Dattagupta&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=Priyam%20Dattagupta&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&color=0077B5&center=true&vCenter=true&width=700&lines=Data+Analyst+at+Nielsen;Power+BI+Developer;SQL+%7C+Python+%7C+Looker+Studio;Building+Data-Driven+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&color=00C896&center=true&vCenter=true&width=800&lines=Data+Analyst+II+at+Nielsen;Power+BI+%7C+SQL+%7C+Python+Expert;ETL+%7C+Automation+%7C+Dashboarding;Building+Data+Driven+Solutions"/>
 </p>
 
 ---
 
 # 👋 About Me
 
-🎯 Data Analyst at **Nielsen**
+🎯 Data Analyst with **3.5+ years of experience** across **Media, E-Commerce, and Healthcare**
 
-📊 4+ years of experience in:
+🏢 Currently working at **Nielsen** improving TV audience measurement systems
 
-• Power BI Dashboard Development  
-• Python Automation & Data Pipelines  
-• SQL Data Analysis  
-• Looker Studio Dashboarding  
+📊 Expert in:
 
-🚀 Passionate about transforming raw data into business insights
+• Power BI Dashboarding  
+• SQL & Database Analytics  
+• Python Automation & ETL  
+• Looker Studio Visualization  
+• Data Quality & Pipeline Development  
+
+🚀 Passionate about building scalable analytics solutions that drive business decisions
 
 ---
 
-# 🧠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,github,aws"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI"/>
 
-<img src="https://img.shields.io/badge/LookerStudio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LookerStudio-4285F4?style=for-the-badge&logo=google"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 </p>
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-🏢 **Data Analyst | Nielsen**
+## 🏢 Data Analyst II | Nielsen | 2024–Present
 
-✔ Built QA automation scripts using Python
+✔ Improved TV measurement software performance by **15%**
 
-✔ Developed scalable data pipelines
+✔ Built QA automation scripts increasing accuracy by **20%**
 
-✔ Designed dashboards reducing manual reporting time
+✔ Reduced data errors by **25% using Python & SQL**
 
-✔ Ensured audit compliance & data accuracy
+✔ Processed **500+ datasets with 100% audit compliance**
+
+✔ Built dashboards reducing reporting time by **40%**
+
+✔ Developed ETL pipelines using **AWS EC2 & S3**
+
+🏆 Recognized by Director of Engineering
+
+---
+
+## 🛒 Data Analyst | Happyecom | 2023–2024
+
+✔ Built Power BI dashboards for 4-year sales analysis
+
+✔ Developed MySQL pipelines for automated reporting
+
+✔ Enabled KPI-based decision making
+
+---
+
+## 🏥 Healthcare Analyst | Triarq Health | 2022–2023
+
+✔ Built OCR pipeline with **92% accuracy**
+
+✔ Reduced manual work by **80%**
+
+✔ Developed FastAPI backend
+
+✔ Built Streamlit application
 
 ---
 
 # 🚀 Featured Projects
 
-## 💰 Expense Tracker
+## 💰 Expense Tracker System
 
-Python, FastAPI, Streamlit
+Python, FastAPI, Streamlit, MySQL
 
 🔗
 
@@ -65,15 +94,27 @@ https://github.com/pridagupt3-cloud/project_expense_tracker
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Power BI Sales Dashboard
 
-Sales performance dashboard with DAX
+Business performance dashboard
 
 ---
 
-## 🗄 SQL Analysis
+## 🤖 OCR Data Extraction System
 
-Advanced SQL queries & analytics
+Automated healthcare document processing
+
+---
+
+# 📜 Certifications
+
+✔ Google Cloud Gen AI
+
+✔ Microsoft Power BI
+
+✔ KPMG Data Analytics
+
+✔ SQL HackerRank Gold Badge
 
 ---
 
@@ -81,9 +122,9 @@ Advanced SQL queries & analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pridagupt3-cloud&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pridagupt3-cloud&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pridagupt3-cloud&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pridagupt3-cloud&theme=tokyonight"/>
 
 </p>
 
@@ -105,7 +146,7 @@ Advanced SQL queries & analytics
 
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:dattaguptapriyam@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 
@@ -117,10 +158,8 @@ Advanced SQL queries & analytics
 
 # 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=pridagupt3-cloud&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=pridagupt3-cloud&style=for-the-badge&color=brightgreen"/>
 
 ---
 
-<!-- Footer Animation -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"/>
