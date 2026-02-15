@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 Priyam Dattagupta | Data Analyst
+<img src="https://i.imgur.com/yourphoto.png" width="150" style="border-radius:50%">
+👋 About Me
 
-<!--
-**pridagupt3-cloud/pridagupt3-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst with 4+ years of experience in data analytics, dashboard development, and data pipeline automation.
 
-Here are some ideas to get you started:
+Currently working at Nielsen, where I focus on enhancing TV audience measurement software, ensuring data integrity, and delivering scalable data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in transforming complex datasets into actionable insights that drive business decisions.
+
+🎓 Education
+
+Bachelor of Management Studies (Marketing)
+SIES College of Management Studies
+
+🛠️ Tech Stack
