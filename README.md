@@ -8,7 +8,7 @@
 
 # 👋 About Me
 
-🎯 Data Analyst with **3.5+ years of experience** across **Media, E-Commerce, and Healthcare**
+🎯 Data Analyst with **4 years of experience** across **Media, E-Commerce, and Healthcare**
 
 🏢 Currently working at **Nielsen** improving TV audience measurement systems
 
