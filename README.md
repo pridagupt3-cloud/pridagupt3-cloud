@@ -1,40 +1,70 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=Priyam%20Dattagupta&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Priyam%20Dattagupta&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&color=00C896&center=true&vCenter=true&width=800&lines=Data+Analyst+II+at+Nielsen;Power+BI+%7C+SQL+%7C+Python+Expert;ETL+%7C+Automation+%7C+Dashboarding;Building+Data+Driven+Solutions"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=26&duration=3000&color=00FFA3&center=true&vCenter=true&width=900&lines=Senior+Data+Analyst+%7C+Machine+Learning+Engineer;4%2B+Years+Experience+%7C+Nielsen;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI;Building+Production+Ready+Data+and+ML+Systems"/>
+
 </p>
 
 ---
 
 # 👋 About Me
 
-🎯 Data Analyst with **4 years of experience** across **Media, E-Commerce, and Healthcare**
+I am a **Data Analyst II at Nielsen** with **4+ years of experience** building **production-scale analytics, automation, and machine learning solutions** across Media, E-Commerce, and Healthcare domains.
 
-🏢 Currently working at **Nielsen** improving TV audience measurement systems
+I specialize in:
 
-📊 Expert in:
+• Machine Learning  
+• Customer Segmentation  
+• Data Analytics  
+• ETL Pipeline Development  
+• Dashboard Development  
+• Automation Systems  
 
-• Power BI Dashboarding  
-• SQL & Database Analytics  
-• Python Automation & ETL  
-• Looker Studio Visualization  
-• Data Quality & Pipeline Development  
-
-🚀 Passionate about building scalable analytics solutions that drive business decisions
+I focus on solving **real business problems using data and ML**.
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Core Competencies
+
+**Machine Learning**
+
+• Customer Segmentation  
+• Clustering (KMeans, PCA)  
+• Feature Engineering  
+• Model Deployment  
+
+**Data Analytics**
+
+• Advanced SQL  
+• Data Modeling  
+• Statistical Analysis  
+
+**Data Engineering**
+
+• ETL Pipelines  
+• Data Automation  
+• AWS EC2 & S3  
+
+**Visualization**
+
+• Power BI  
+• Streamlit  
+• Looker Studio  
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,github,aws"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,tensorflow,pytorch,git,github"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI"/>
 
-<img src="https://img.shields.io/badge/LookerStudio-4285F4?style=for-the-badge&logo=google"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
 </p>
 
@@ -42,101 +72,152 @@
 
 # 💼 Professional Experience
 
-## 🏢 Data Analyst II | Nielsen | 2024–Present
+## 🏢 Nielsen — Data Analyst II  
+📍 2024 – Present
 
-✔ Improved TV measurement software performance by **15%**
+Working on **TV Audience Measurement Systems used across global markets**
 
-✔ Built QA automation scripts increasing accuracy by **20%**
+**Key Impact:**
 
-✔ Reduced data errors by **25% using Python & SQL**
+✔ Improved system performance by **15%**
 
-✔ Processed **500+ datasets with 100% audit compliance**
+✔ Built **Python automation pipelines** reducing manual effort by **40%**
 
-✔ Built dashboards reducing reporting time by **40%**
+✔ Improved data accuracy by **25%**
 
-✔ Developed ETL pipelines using **AWS EC2 & S3**
+✔ Processed **500+ production datasets**
 
-🏆 Recognized by Director of Engineering
+✔ Developed ETL pipelines using **AWS**
 
----
+✔ Built dashboards for business reporting
 
-## 🛒 Data Analyst | Happyecom | 2023–2024
-
-✔ Built Power BI dashboards for 4-year sales analysis
-
-✔ Developed MySQL pipelines for automated reporting
-
-✔ Enabled KPI-based decision making
+Recognized by **Director of Engineering**
 
 ---
 
-## 🏥 Healthcare Analyst | Triarq Health | 2022–2023
+## 🛒 Happyecom — Data Analyst  
+📍 2023 – 2024
 
-✔ Built OCR pipeline with **92% accuracy**
+✔ Built **Power BI dashboards for business insights**
 
-✔ Reduced manual work by **80%**
+✔ Automated reporting using SQL pipelines
 
-✔ Developed FastAPI backend
-
-✔ Built Streamlit application
-
----
-
-# 🚀 Featured Projects
-
-## 💰 Expense Tracker System
-
-Python, FastAPI, Streamlit, MySQL
-
-🔗
-
-https://github.com/pridagupt3-cloud/project_expense_tracker
+✔ Enabled leadership decision making
 
 ---
 
-## 📊 AtliQ Business Insights 360 Dashboard | Power BI
+## 🏥 Triarq Health — Healthcare Data Analyst  
+📍 2022 – 2023
 
-Enterprise-level Business Intelligence dashboard delivering insights across Finance, Sales, Supply Chain, Marketing, and Executive functions.
+✔ Built **OCR system with 92% accuracy**
 
-✔ Built interactive Power BI dashboard using DAX and data modeling  
-✔ Enabled KPI tracking for Revenue, Profit, and Forecast Accuracy  
-✔ Implemented dynamic visuals, bookmarks, and executive reporting  
-✔ Delivered data-driven insights for strategic decision making  
+✔ Reduced manual processing by **80%**
 
-🔗 GitHub Repository  
+✔ Developed **FastAPI backend**
+
+✔ Built **Streamlit applications**
+
+---
+
+# 🚀 Machine Learning Projects
+
+---
+
+# 🧠 Customer Segmentation ML System
+
+Production-ready Machine Learning project
+
+GitHub Repo:  
+https://github.com/pridagupt3-cloud/Customer-Segementation-Using-Machine-Learning
+
+---
+
+### Business Problem
+
+Businesses don't know:
+
+• Who are high value customers  
+• Who to target  
+
+---
+
+### Solution
+
+Built ML clustering model to segment customers.
+
+---
+
+### ML Pipeline
+
+Data Processing → Feature Engineering → Scaling → KMeans → PCA → Deployment
+
+---
+
+### Impact
+
+Segmented customers into **6 business-usable clusters**
+
+Built **Streamlit web application**
+
+---
+
+### Tech Used
+
+Python  
+Scikit-Learn  
+Pandas  
+Streamlit  
+
+---
+
+# 📊 Analytics Projects
+
+---
+
+## Enterprise Power BI Dashboard
+
+GitHub:
+
 https://github.com/pridagupt3-cloud/AtliQ-Business-Insights-360
 
-🔗 Live Dashboard  
-https://app.powerbi.com/groups/me/reports/de9d0173-167c-4691-9864-bcd0aafb79d9
+Built enterprise dashboard tracking:
 
+• Revenue  
+• Profit  
+• Forecast  
+
+Used by leadership
 
 ---
 
-## 🤖 OCR Data Extraction System
+# ⚙ Production Systems Built
 
-Automated healthcare document processing
+✔ ML prediction apps  
+✔ Automation pipelines  
+✔ OCR systems  
+✔ ETL pipelines  
 
 ---
 
 # 📜 Certifications
 
-✔ Google Cloud Gen AI
+Google Cloud Gen AI
 
-✔ Microsoft Power BI
+Microsoft Power BI
 
-✔ KPMG Data Analytics
+KPMG Data Analytics
 
-✔ SQL HackerRank Gold Badge
+SQL HackerRank Gold Badge
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pridagupt3-cloud&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pridagupt3-cloud&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pridagupt3-cloud&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pridagupt3-cloud&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -160,7 +241,7 @@ Automated healthcare document processing
 
 <a href="mailto:dattaguptapriyam@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 
 </a>
 
@@ -168,10 +249,14 @@ Automated healthcare document processing
 
 ---
 
-# 👀 Profile Views
+# 🎯 Career Focus
 
-<img src="https://komarev.com/ghpvc/?username=pridagupt3-cloud&style=for-the-badge&color=brightgreen"/>
+Currently targeting:
+
+Data Scientist roles  
+Machine Learning Engineer roles  
+Senior Data Analyst roles  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
