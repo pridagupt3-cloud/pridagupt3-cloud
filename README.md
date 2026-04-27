@@ -48,7 +48,8 @@ I focus on solving **real business problems using data and ML**.
 
 **Visualization**
 
-• Power BI  
+• Power BI 
+• Tableau
 • Streamlit  
 • Looker Studio  
 
@@ -64,7 +65,13 @@ I focus on solving **real business problems using data and ML**.
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI"/>
 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge"/>
 
 </p>
 
