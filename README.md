@@ -169,6 +169,59 @@ Pandas
 Streamlit  
 
 ---
+---
+
+# 💳 AI-Powered Fraud Detection System
+
+Production-ready Machine Learning project
+
+GitHub Repo:
+https://github.com/pridagupt3-cloud/AI-Powered-Fraud-Detection-System
+
+---
+
+### Business Problem
+
+Financial institutions struggle to:
+
+• Detect fraudulent transactions in real-time
+• Minimize financial losses
+• Reduce false-positive fraud alerts
+
+---
+
+### Solution
+
+Built an advanced machine learning fraud detection system to classify suspicious financial transactions with high predictive accuracy.
+
+---
+
+### ML Pipeline
+
+Data Preprocessing → Feature Engineering → Encoding → Model Training → Fraud Classification → Deployment
+
+---
+
+### Impact
+
+Achieved **99%+ predictive accuracy**
+
+Built **real-time Streamlit fraud prediction web application**
+
+Enabled proactive **financial risk prevention**
+
+---
+
+### Tech Used
+
+Python
+Scikit-Learn
+Pandas
+Streamlit
+Joblib
+
+---
+
 
 # 📊 Analytics Projects
 
